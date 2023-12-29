@@ -1,0 +1,14 @@
+{
+  "name": "imagemapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "map:landTypes": "node landTypes/landTypeMapper.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
